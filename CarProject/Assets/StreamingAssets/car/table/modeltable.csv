@@ -1,0 +1,4 @@
+ID,Model_Name,Model_Trigger,Model_dec
+INT,STRING,INT,STRING
+#,模型名称,模型是否触发 1触发0不触发,模型描述
+1,01_model,0,adasdasdasdad

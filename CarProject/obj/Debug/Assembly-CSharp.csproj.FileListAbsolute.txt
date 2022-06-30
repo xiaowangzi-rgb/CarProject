@@ -1,0 +1,2 @@
+D:\MyUnityProject\GameFramework\CarProject\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\MyUnityProject\GameFramework\CarProject\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
